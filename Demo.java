@@ -8,6 +8,10 @@ class Demo
   {
     return n*n*n;
   }
+  static int sub(int x,int y)
+  {
+    return x-y;
+  }
   public static void main(String args[])
   {
   }
